@@ -1,0 +1,14 @@
+console.log(4 < 4);
+console.log(23 == 33);
+console.log( 37 >= -3);
+console.log("Joel" == "Joel");
+console.log("joel" == "Joel");
+console.log("!$;:14" != "123qwerty");
+console.log(("Joel" == "Joel") && ("!$;:14" == "!$;:14"));
+console.log(("Joel" == "joel") || ("!$;:14" == "!$;:14"));
+console.log(!("joel" == "Joel") && !("!$;:14" == "123qwerty"));
+console.log((18 <= "edad") && ("edad"<100));
+console.log((18 <= "edad") || ("edad"<100));
+console.log((18 >= "edad") || ("edad"<100));
+console.log((18 > "edad") && ("edad">100));
+console.log((18 > "edad") || ("edad">100));
